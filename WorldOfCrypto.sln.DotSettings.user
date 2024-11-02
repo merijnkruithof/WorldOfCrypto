@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0cfd7922_002D6810_002D4f41_002D80ef_002Dfad9e089019e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestKeyExchange" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED54FAA0-2363-4279-B909-B73159793DC9::net8.0::WorldOfCrypto.DiffieHellman.Tests.KeyExchangeTest.TestKeyExchange&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3263c091_002D56bf_002D4971_002Db65b_002D8034f6df2039/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestKeyExchange #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED54FAA0-2363-4279-B909-B73159793DC9::net8.0::WorldOfCrypto.DiffieHellman.Tests.KeyExchangeTest.TestKeyExchange&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab281baa_002D7a58_002D46db_002Da891_002Df24f8275364b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED54FAA0-2363-4279-B909-B73159793DC9::net8.0::WorldOfCrypto.DiffieHellman.Tests.Tests.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::ED54FAA0-2363-4279-B909-B73159793DC9::net8.0::WorldOfCrypto.DiffieHellman.Tests.KeyGeneratorTest.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1b8d7f5_002D06d5_002D410a_002Da274_002Db6b0e834a3dd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED54FAA0-2363-4279-B909-B73159793DC9::net8.0::WorldOfCrypto.DiffieHellman.Tests.KeyExchangeTest.TestKeyExchange&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd9811a8_002De37c_002D4283_002D8b83_002D404c9662f551/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED54FAA0-2363-4279-B909-B73159793DC9::net8.0::WorldOfCrypto.DiffieHellman.Tests.KeyGeneratorTest.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eda52911_002D8406_002D4067_002D8365_002D0007af7337d3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::ED54FAA0-2363-4279-B909-B73159793DC9::net8.0::WorldOfCrypto.DiffieHellman.Tests.KeyGeneratorTest.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
