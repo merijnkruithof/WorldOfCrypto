@@ -11,7 +11,7 @@ public class KeyExchangeTest
         // Arrange
         var privateKeyGenerator = new PrivateKeyGenerator();
         var sharedSecretGenerator = new SharedKeyGenerator();
-        var publicKeyGenerator = new PubicKeyGenerator();
+        var publicKeyGenerator = new PublicKeyGenerator();
         
         // Use the default DH parameters.
         var parameters = new DhParameters();

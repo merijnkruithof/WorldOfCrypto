@@ -2,7 +2,7 @@ using Org.BouncyCastle.Math;
 
 namespace WorldOfCrypto.DiffieHellman;
 
-public class PubicKeyGenerator
+public class PublicKeyGenerator
 {
     /// <summary>
     /// Generates a public key using Diffie-Hellman parameters.
