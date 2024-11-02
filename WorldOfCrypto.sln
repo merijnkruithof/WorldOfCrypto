@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldOfCrypto.DiffieHellman
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldOfCrypto.DiffieHellman.Tests", "tests\WorldOfCrypto.DiffieHellman.Tests\WorldOfCrypto.DiffieHellman.Tests.csproj", "{ED54FAA0-2363-4279-B909-B73159793DC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldOfCrypto.ChaCha20", "src\WorldOfCrypto.ChaCha20\WorldOfCrypto.ChaCha20.csproj", "{5C119D28-A406-42DD-8AD6-50954751765D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldOfCrypto.ChaCha20.Tests", "tests\WorldOfCrypto.ChaCha20.Tests\WorldOfCrypto.ChaCha20.Tests.csproj", "{8FBB0938-7C2B-47BF-A522-3FFFFE7737BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{ED54FAA0-2363-4279-B909-B73159793DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED54FAA0-2363-4279-B909-B73159793DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED54FAA0-2363-4279-B909-B73159793DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C119D28-A406-42DD-8AD6-50954751765D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C119D28-A406-42DD-8AD6-50954751765D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C119D28-A406-42DD-8AD6-50954751765D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C119D28-A406-42DD-8AD6-50954751765D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBB0938-7C2B-47BF-A522-3FFFFE7737BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBB0938-7C2B-47BF-A522-3FFFFE7737BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBB0938-7C2B-47BF-A522-3FFFFE7737BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBB0938-7C2B-47BF-A522-3FFFFE7737BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
